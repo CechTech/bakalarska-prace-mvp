@@ -35,5 +35,7 @@ document.write("<script type='text/javascript' charset='utf-8' src='./resources/
 document.write("<script type='text/javascript' charset='utf-8' src='./resources/_jim/javascript/component-jim-customSlider.js'></script>");
 document.write("<script type='text/javascript' charset='utf-8' src='./resources/_jim/javascript/function-jim-device.js'></script>");
 document.write("<script type='text/javascript' charset='utf-8' src='./resources/_jim/javascript/function-jim-webdevice.js'></script>");
-document.write("<script type='text/javascript' charset='utf-8' src='./resources/scenarios/function-jim-links1544419339606.js'></script>");
-document.write("<script type='text/javascript' charset='utf-8' src='./resources/lookup-1544419339606.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/scenarios/function-jim-links1544840373657.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/lookup-1544840373657.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/601b45f0-3f2a-4d19-b2bb-915ff188d573-1544840373657.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1544840373657.js'></script>");
